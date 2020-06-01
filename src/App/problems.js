@@ -30,7 +30,7 @@ export default {
     },
     {
       "title": "Product Sum",
-      "link": ""
+      "link": "https://www.glassdoor.com/Interview/Given-an-array-that-contains-numbers-and-or-other-nested-arrays-write-an-algorithm-to-come-up-with-a-sum-of-these-elements-QTN_2300977.htm"
     },
     {
       "title": "Binary Search (Search Insert Position)",
@@ -42,15 +42,15 @@ export default {
     },
     {
       "title": "Bubble Sort",
-      "link": ""
+      "link": "https://www.hackerrank.com/challenges/ctci-bubble-sort/problem"
     },
     {
       "title": "Insertion Sort",
-      "link": ""
+      "link": "https://www.hackerrank.com/challenges/insertionsort1/problem"
     },
     {
       "title": "Selection Sort",
-      "link": ""
+      "link": "https://www.geeksforgeeks.org/selection-sort/"
     },
     {
       "title": "Palindrome Checker",
@@ -112,7 +112,7 @@ export default {
     },
     {
       "title": "Max Subset Sum No Adjacent",
-      "link": "*2"
+      "link": "https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/"
     },
     {
       "title": "Number Of Ways To Make Change",
@@ -198,7 +198,7 @@ export default {
     },
     {
       "title": "Subarray Sort",
-      "link": ""
+      "link": "https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/"
     },
     {
       "title": "Min Rewards",
